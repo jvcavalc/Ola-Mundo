@@ -1,2 +1,2 @@
-# Ola Mundo
- Aprendendo GitHub
+# Olá, Mundo
+ Aprendendo Git e GitHub
